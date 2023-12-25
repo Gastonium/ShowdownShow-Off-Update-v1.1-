@@ -1,0 +1,61 @@
+Hello! Thank you for deciding to try Showdown Showoff for yourself. I hope you will explore all the possibilities and make your creativity shine!
+
+INDEX:
+
+    Update Notes
+    Navigation
+    Credits
+    Future Plans
+    Get More Backgrounds
+
+.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+  UPDATE NOTES
+  (25/12/2023) Christmas Update (v1.1):
+- Fixed an issue which would result in slightly zoomed-in backgrounds
+- Backgrounds now match linked image dimensions perfectly
+- Changed original 700 x 450 image requirements to 640 x 360
+- New image dimensions reduce file sizes for GitHub users.
+
+.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+NAVIGATION
+
+You will find multiple versions of the CCS scripts within these folders, here is a quick explanation to help you decide which one is right for you.
+
+    Chrome/Firefox: Depending on your browser, you will need to choose which set of scripts will work for you. FireFox scripts don't work on Chrome and vice versa.
+
+    Casual: These keep your trainer icons and allow you to play the game normally, meant for people who are only interested in spicing up the appearance of their game.
+
+    Video: Removes the trainer icons for video editors. This allows you to add your own during editing.
+
+    Fully Custom: This replaces all backgrounds, weathers, and terrains with placeholders, for people who want to customise all of that stuff. Other versions keep the originals from TeamPokeaimMD's mod.
+
+.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+CREDITS
+
+  Gastonium - Created Showdown: Show-Off
+  @Gastonium on YouTube
+
+  Mytton - Troubleshooting and bug fixes, made update v1.1 possible
+  @Slogokolt on Discord / @MyttonAnimatingStuff on YouTube
+
+  TeamPokeaimMD - Creating the original CSS scripts which was used as a foundation for Showdown: Show-Off!
+  @PokeaimMD on YouTube 
+
+  AEVOND - Throwing Car Batteries into the Ocean
+  @AEVOND on YouTube
+
+.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+FUTURE PLANS
+
+  - Add in-game support for custom trainer sprites.
+  - Post full-length video tutorial on how to use this.
+
+.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+
+GET MORE BACKGROUNDS
+
+  You can find a library of the custom backgrounds I've put together on my Discord server: https://discord.gg/2SPsf7pmFd
