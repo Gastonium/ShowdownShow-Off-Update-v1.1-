@@ -15,7 +15,13 @@ INDEX:
 - Fixed an issue which would result in slightly zoomed-in backgrounds
 - Backgrounds now match linked image dimensions perfectly
 - Changed original 700 x 450 image requirements to 640 x 360
-- New image dimensions reduce file sizes for GitHub users.
+- New image dimensions reduce file sizes for GitHub users, allowing more access to .GIFs while dealing with the 25MB file size limit.
+
+- Added separate customisation possibilities for Hail and Snow
+- Added customisation options for Delta Stream's Strong Winds
+- Added new default backgrounds to fit new image dimensions
+- Removed original defaults, still available in v1.0's repository
+- Updated credits list to inclde social media handles of contributors
 
 .-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
 
